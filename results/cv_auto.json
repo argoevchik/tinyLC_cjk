@@ -1,0 +1,1707 @@
+{
+ "0": {
+  "n": 2520,
+  "coarse_crop_acc": 0.8253968253968254,
+  "script_acc": 0.9563492063492064,
+  "per_lang": {
+   "ja": {
+    "coarse_crop_acc": 0.761,
+    "n": 1200
+   },
+   "zh": {
+    "coarse_crop_acc": 0.952,
+    "n": 480
+   },
+   "ko": {
+    "coarse_crop_acc": 0.845,
+    "n": 840
+   }
+  },
+  "fonts": {
+   "astasans/ko": {
+    "lang": "ko",
+    "group": "astasans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.93,
+    "crop_acc": 0.992,
+    "script_pred": "ko"
+   },
+   "bizudgothic/ja": {
+    "lang": "ja",
+    "group": "bizudgothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.89,
+    "crop_acc": 0.992,
+    "fine_true": "gothic_humanist",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.333,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.754,
+    "ratio_pred": 0.786,
+    "trait_pred": "gothic_geometric"
+   },
+   "bizudpgothic/ja": {
+    "lang": "ja",
+    "group": "bizudgothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.9,
+    "crop_acc": 0.992,
+    "fine_true": "gothic_humanist",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.282,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.754,
+    "ratio_pred": 0.786,
+    "trait_pred": "gothic_geometric"
+   },
+   "cactusclassicalserif/ja": {
+    "lang": "ja",
+    "group": "cactus",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.91,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 1.0,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.708,
+    "ratio_pred": 0.685,
+    "trait_pred": "mincho_modern"
+   },
+   "cactusclassicalserif/zh": {
+    "lang": "zh",
+    "group": "cactus",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.91,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "dongle/ko": {
+    "lang": "ko",
+    "group": "dongle",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.84,
+    "crop_acc": 0.975,
+    "script_pred": "ko"
+   },
+   "gowunbatang/ko": {
+    "lang": "ko",
+    "group": "gowunbatang",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.68,
+    "crop_acc": 0.942,
+    "fine_true": "batang_old",
+    "fine_pred": "batang_modern",
+    "fine_crop_acc": 0.008,
+    "script_pred": "ko",
+    "auto_fine": "batang_modern"
+   },
+   "hahmlet/ko": {
+    "lang": "ko",
+    "group": "hahmlet",
+    "true": "serif",
+    "pred": "sans",
+    "p": 0.76,
+    "crop_acc": 0.017,
+    "fine_true": "batang_modern",
+    "fine_pred": "batang_modern",
+    "fine_crop_acc": 1.0,
+    "script_pred": "ko"
+   },
+   "ipaexmincho/ja": {
+    "lang": "ja",
+    "group": "ipaexmincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.92,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.99,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.683,
+    "ratio_pred": 0.687,
+    "trait_pred": "mincho_modern"
+   },
+   "konatu/ja": {
+    "lang": "ja",
+    "group": "konatu",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.91,
+    "crop_acc": 0.983,
+    "fine_true": "gothic_old",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.17,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.704,
+    "ratio_pred": 0.778,
+    "trait_pred": "gothic_geometric"
+   },
+   "kouzan/ja": {
+    "lang": "ja",
+    "group": "kouzan",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.9,
+    "crop_acc": 1.0,
+    "script_pred": "ja",
+    "ratio_true": 0.467,
+    "ratio_pred": 0.615
+   },
+   "lineseedjp/ja": {
+    "lang": "ja",
+    "group": "lineseedjp",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.88,
+    "crop_acc": 0.958,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.608,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.769,
+    "ratio_pred": 0.778,
+    "trait_pred": "gothic_geometric"
+   },
+   "lxgwmarkergothic/zh": {
+    "lang": "zh",
+    "group": "lxgwmarkergothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.65,
+    "crop_acc": 0.825,
+    "script_pred": "zh"
+   },
+   "mashanzheng/zh": {
+    "lang": "zh",
+    "group": "mashanzheng",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.84,
+    "crop_acc": 0.983,
+    "script_pred": "zh"
+   },
+   "mochiypopone/ja": {
+    "lang": "ja",
+    "group": "mochiy",
+    "true": "rounded",
+    "pred": "sans",
+    "p": 0.82,
+    "crop_acc": 0.017,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.851,
+    "ratio_pred": 0.74
+   },
+   "mochiypoppone/ja": {
+    "lang": "ja",
+    "group": "mochiy",
+    "true": "rounded",
+    "pred": "sans",
+    "p": 0.83,
+    "crop_acc": 0.017,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.852,
+    "ratio_pred": 0.745
+   },
+   "nanumbarungothic/ko": {
+    "lang": "ko",
+    "group": "nanumbarungothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.94,
+    "crop_acc": 1.0,
+    "script_pred": "ko"
+   },
+   "nanumbrushscript/ko": {
+    "lang": "ko",
+    "group": "nanumbrushscript",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.85,
+    "crop_acc": 0.992,
+    "script_pred": "ko"
+   },
+   "newtegomin/ja": {
+    "lang": "ja",
+    "group": "newtegomin",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.53,
+    "crop_acc": 0.65,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 0.951,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.557,
+    "ratio_pred": 0.627,
+    "trait_pred": "mincho_old"
+   },
+   "undotum/ko": {
+    "lang": "ko",
+    "group": "un",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.94,
+    "crop_acc": 1.0,
+    "script_pred": "ko"
+   },
+   "uoqmunthenkhung/zh": {
+    "lang": "zh",
+    "group": "uoqmunthenkhung",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   }
+  },
+  "fine": {
+   "ja/serif": {
+    "crop_acc": 0.98,
+    "font_correct": "3/3",
+    "trait_font_correct": "3/3"
+   },
+   "ja/sans": {
+    "crop_acc": 0.346,
+    "font_correct": "1/4",
+    "trait_font_correct": "1/4"
+   },
+   "ko/serif": {
+    "crop_acc": 0.504,
+    "font_correct": "1/2"
+   }
+  },
+  "coarse_font_acc": 0.8571428571428571,
+  "kana_ratio": {
+   "mae": 0.061,
+   "corr": 0.79
+  },
+  "coarse_confusion": [
+   [
+    673,
+    118,
+    49,
+    0
+   ],
+   [
+    21,
+    929,
+    0,
+    10
+   ],
+   [
+    0,
+    0,
+    357,
+    3
+   ],
+   [
+    0,
+    234,
+    5,
+    121
+   ]
+  ],
+  "held_out": [
+   "astasans",
+   "bizudgothic",
+   "cactus",
+   "dongle",
+   "gowunbatang",
+   "hahmlet",
+   "ipaexmincho",
+   "konatu",
+   "kouzan",
+   "lineseedjp",
+   "lxgwmarkergothic",
+   "mashanzheng",
+   "mochiy",
+   "nanumbarungothic",
+   "nanumbrushscript",
+   "newtegomin",
+   "un",
+   "uoqmunthenkhung"
+  ]
+ },
+ "1": {
+  "n": 3720,
+  "coarse_crop_acc": 0.8263440860215053,
+  "script_acc": 0.9698924731182795,
+  "per_lang": {
+   "ja": {
+    "coarse_crop_acc": 0.889,
+    "n": 2160
+   },
+   "zh": {
+    "coarse_crop_acc": 0.633,
+    "n": 600
+   },
+   "ko": {
+    "coarse_crop_acc": 0.805,
+    "n": 960
+   }
+  },
+  "fonts": {
+   "bizudmincho/ja": {
+    "lang": "ja",
+    "group": "bizudmincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.87,
+    "crop_acc": 0.992,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.772,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.712,
+    "ratio_pred": 0.676,
+    "trait_pred": "mincho_modern"
+   },
+   "bizudpmincho/ja": {
+    "lang": "ja",
+    "group": "bizudmincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.87,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.853,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.712,
+    "ratio_pred": 0.687,
+    "trait_pred": "mincho_modern"
+   },
+   "hinamincho/ja": {
+    "lang": "ja",
+    "group": "hinamincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 0.685,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.643,
+    "ratio_pred": 0.637,
+    "trait_pred": "mincho_old"
+   },
+   "huninn/zh": {
+    "lang": "zh",
+    "group": "motoya",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "ibmplexsansjp/ja": {
+    "lang": "ja",
+    "group": "ibmplex",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.87,
+    "crop_acc": 0.967,
+    "fine_true": "gothic_humanist",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.158,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.755,
+    "ratio_pred": 0.77,
+    "trait_pred": "gothic_geometric"
+   },
+   "ibmplexsanskr/ko": {
+    "lang": "ko",
+    "group": "ibmplex",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.88,
+    "crop_acc": 0.983,
+    "script_pred": "ko"
+   },
+   "jua/ko": {
+    "lang": "ko",
+    "group": "jua",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "ko"
+   },
+   "kosugi/ja": {
+    "lang": "ja",
+    "group": "motoya",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.91,
+    "crop_acc": 0.983,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.733,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.796,
+    "ratio_pred": 0.777,
+    "trait_pred": "gothic_geometric"
+   },
+   "kosugimaru/ja": {
+    "lang": "ja",
+    "group": "motoya",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.91,
+    "crop_acc": 0.975,
+    "script_pred": "ja",
+    "ratio_true": 0.804,
+    "ratio_pred": 0.722
+   },
+   "liujianmaocao/zh": {
+    "lang": "zh",
+    "group": "liujianmaocao",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "mplus1/ja": {
+    "lang": "ja",
+    "group": "mplus",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.88,
+    "crop_acc": 1.0,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.979,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.839,
+    "ratio_pred": 0.799,
+    "trait_pred": "gothic_geometric"
+   },
+   "mplus1code/ja": {
+    "lang": "ja",
+    "group": "mplus",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.9,
+    "crop_acc": 0.992,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.942,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.838,
+    "ratio_pred": 0.794,
+    "trait_pred": "gothic_geometric"
+   },
+   "mplus1p/ja": {
+    "lang": "ja",
+    "group": "mplus",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.86,
+    "crop_acc": 0.958,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.95,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.789,
+    "ratio_pred": 0.79,
+    "trait_pred": "gothic_geometric"
+   },
+   "mplus2/ja": {
+    "lang": "ja",
+    "group": "mplus",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.86,
+    "crop_acc": 0.967,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.963,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.837,
+    "ratio_pred": 0.79,
+    "trait_pred": "gothic_geometric"
+   },
+   "mplusrounded1c/ja": {
+    "lang": "ja",
+    "group": "mplus",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.81,
+    "crop_acc": 0.9,
+    "script_pred": "ja",
+    "ratio_true": 0.786,
+    "ratio_pred": 0.75
+   },
+   "mplusu/ja": {
+    "lang": "ja",
+    "group": "mplus",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.88,
+    "crop_acc": 0.975,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.99,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.85,
+    "ratio_pred": 0.799,
+    "trait_pred": "gothic_geometric"
+   },
+   "nanumgothic/ko": {
+    "lang": "ko",
+    "group": "nanumgothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.55,
+    "crop_acc": 0.683,
+    "script_pred": "ko"
+   },
+   "nanumgothiccoding/ko": {
+    "lang": "ko",
+    "group": "nanumgothic",
+    "true": "sans",
+    "pred": "rounded",
+    "p": 0.45,
+    "crop_acc": 0.5,
+    "script_pred": "ko"
+   },
+   "nanummyeongjo/ko": {
+    "lang": "ko",
+    "group": "nanummyeongjo",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.69,
+    "crop_acc": 0.883,
+    "fine_true": "batang_modern",
+    "fine_pred": "batang_modern",
+    "fine_crop_acc": 0.95,
+    "script_pred": "ko",
+    "auto_fine": "batang_modern"
+   },
+   "pottaone/ja": {
+    "lang": "ja",
+    "group": "pottaone",
+    "true": "brush",
+    "pred": "rounded",
+    "p": 0.49,
+    "crop_acc": 0.15,
+    "script_pred": "ja",
+    "ratio_true": 0.63,
+    "ratio_pred": 0.719
+   },
+   "sawarabimincho/ja": {
+    "lang": "ja",
+    "group": "sawarabimincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.91,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.61,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.66,
+    "ratio_pred": 0.653,
+    "trait_pred": "mincho_modern"
+   },
+   "shipporiantique/ja": {
+    "lang": "ja",
+    "group": "shipporiantique",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.52,
+    "crop_acc": 0.642,
+    "fine_true": "gothic_old",
+    "fine_pred": "gothic_old",
+    "fine_crop_acc": 0.782,
+    "script_pred": "ja",
+    "auto_fine": "gothic_old",
+    "ratio_true": 0.652,
+    "ratio_pred": 0.664,
+    "trait_pred": "gothic_old"
+   },
+   "shipporiantiqueb1/ja": {
+    "lang": "ja",
+    "group": "shipporiantique",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.47,
+    "crop_acc": 0.508,
+    "fine_true": "gothic_old",
+    "fine_pred": "gothic_old",
+    "fine_crop_acc": 0.849,
+    "script_pred": "ja",
+    "auto_fine": "gothic_old",
+    "ratio_true": 0.658,
+    "ratio_pred": 0.664,
+    "trait_pred": "gothic_old"
+   },
+   "songmyung/ko": {
+    "lang": "ko",
+    "group": "songmyung",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.91,
+    "crop_acc": 1.0,
+    "fine_true": "batang_old",
+    "fine_pred": "batang_old",
+    "fine_crop_acc": 0.992,
+    "script_pred": "ko",
+    "auto_fine": "batang_old"
+   },
+   "ungraphic/ko": {
+    "lang": "ko",
+    "group": "ungraphic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.64,
+    "crop_acc": 0.825,
+    "script_pred": "ko"
+   },
+   "ungungseo/ko": {
+    "lang": "ko",
+    "group": "ungungseo",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.48,
+    "crop_acc": 0.567,
+    "script_pred": "ko"
+   },
+   "vlgothic/ja": {
+    "lang": "ja",
+    "group": "mplus",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.92,
+    "crop_acc": 1.0,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.893,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.79,
+    "ratio_pred": 0.789,
+    "trait_pred": "gothic_geometric"
+   },
+   "wdxllubrifontsc/zh": {
+    "lang": "zh",
+    "group": "wdxl",
+    "true": "sans",
+    "pred": "rounded",
+    "p": 0.54,
+    "crop_acc": 0.358,
+    "script_pred": "zh"
+   },
+   "wdxllubrifonttc/zh": {
+    "lang": "zh",
+    "group": "wdxl",
+    "true": "sans",
+    "pred": "rounded",
+    "p": 0.53,
+    "crop_acc": 0.383,
+    "script_pred": "zh"
+   },
+   "zcoolxiaowei/zh": {
+    "lang": "zh",
+    "group": "zcoolxiaowei",
+    "true": "serif",
+    "pred": "sans",
+    "p": 0.45,
+    "crop_acc": 0.425,
+    "script_pred": "zh"
+   },
+   "zenantique/ja": {
+    "lang": "ja",
+    "group": "zenantique",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.9,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 1.0,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.634,
+    "ratio_pred": 0.606,
+    "trait_pred": "mincho_old"
+   }
+  },
+  "fine": {
+   "ja/serif": {
+    "crop_acc": 0.781,
+    "font_correct": "5/5",
+    "trait_font_correct": "5/5"
+   },
+   "ja/sans": {
+    "crop_acc": 0.825,
+    "font_correct": "9/10",
+    "trait_font_correct": "9/10"
+   },
+   "ko/serif": {
+    "crop_acc": 0.971,
+    "font_correct": "2/2"
+   }
+  },
+  "coarse_font_acc": 0.8387096774193549,
+  "kana_ratio": {
+   "mae": 0.0303,
+   "corr": 0.895
+  },
+  "coarse_confusion": [
+   [
+    876,
+    83,
+    0,
+    1
+   ],
+   [
+    120,
+    1527,
+    0,
+    273
+   ],
+   [
+    52,
+    13,
+    206,
+    89
+   ],
+   [
+    0,
+    14,
+    1,
+    465
+   ]
+  ],
+  "held_out": [
+   "bizudmincho",
+   "hinamincho",
+   "ibmplex",
+   "jua",
+   "liujianmaocao",
+   "motoya",
+   "mplus",
+   "nanumgothic",
+   "nanummyeongjo",
+   "pottaone",
+   "sawarabimincho",
+   "shipporiantique",
+   "songmyung",
+   "ungraphic",
+   "ungungseo",
+   "wdxl",
+   "zcoolxiaowei",
+   "zenantique"
+  ]
+ },
+ "2": {
+  "n": 3360,
+  "coarse_crop_acc": 0.9125,
+  "script_acc": 0.9726190476190476,
+  "per_lang": {
+   "ja": {
+    "coarse_crop_acc": 0.963,
+    "n": 1200
+   },
+   "zh": {
+    "coarse_crop_acc": 0.917,
+    "n": 1200
+   },
+   "ko": {
+    "coarse_crop_acc": 0.844,
+    "n": 960
+   }
+  },
+  "fonts": {
+   "aoyagisoseki/ja": {
+    "lang": "ja",
+    "group": "aoyagisoseki",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.9,
+    "crop_acc": 1.0,
+    "script_pred": "ja",
+    "ratio_true": 0.621,
+    "ratio_pred": 0.491
+   },
+   "arphickai/zh": {
+    "lang": "zh",
+    "group": "arphickai",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.85,
+    "crop_acc": 0.992,
+    "script_pred": "zh"
+   },
+   "arphicming/zh": {
+    "lang": "zh",
+    "group": "arphicming",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.94,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "baekmukbatang/ko": {
+    "lang": "ko",
+    "group": "baekmukbatang",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "fine_true": "batang_old",
+    "fine_pred": "batang_old",
+    "fine_crop_acc": 1.0,
+    "script_pred": "ko",
+    "auto_fine": "batang_old"
+   },
+   "chirongoroundtc/ja": {
+    "lang": "ja",
+    "group": "sourcehansans",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.75,
+    "crop_acc": 0.9,
+    "script_pred": "ja",
+    "ratio_true": 0.744,
+    "ratio_pred": 0.747
+   },
+   "chirongoroundtc/ko": {
+    "lang": "ko",
+    "group": "sourcehansans",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.71,
+    "crop_acc": 0.792,
+    "script_pred": "ko"
+   },
+   "chirongoroundtc/zh": {
+    "lang": "zh",
+    "group": "sourcehansans",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.84,
+    "crop_acc": 0.958,
+    "script_pred": "zh"
+   },
+   "chironheihk/zh": {
+    "lang": "zh",
+    "group": "sourcehansans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.75,
+    "crop_acc": 0.817,
+    "script_pred": "zh"
+   },
+   "chocolateclassicalsans/zh": {
+    "lang": "zh",
+    "group": "sourcehansans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.91,
+    "crop_acc": 0.983,
+    "script_pred": "zh"
+   },
+   "diphylleia/ko": {
+    "lang": "ko",
+    "group": "diphylleia",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.72,
+    "crop_acc": 0.967,
+    "fine_true": "batang_modern",
+    "fine_pred": "batang_modern",
+    "fine_crop_acc": 0.958,
+    "script_pred": "ko",
+    "auto_fine": "batang_modern"
+   },
+   "dokdo/ko": {
+    "lang": "ko",
+    "group": "dokdo",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.71,
+    "crop_acc": 0.95,
+    "script_pred": "ko"
+   },
+   "gowundodum/ko": {
+    "lang": "ko",
+    "group": "gowundodum",
+    "true": "sans",
+    "pred": "serif",
+    "p": 0.68,
+    "crop_acc": 0.083,
+    "script_pred": "ko",
+    "auto_fine": "batang_modern"
+   },
+   "hanazono/ja": {
+    "lang": "ja",
+    "group": "hanazono",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.91,
+    "crop_acc": 0.992,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.939,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.698,
+    "ratio_pred": 0.68,
+    "trait_pred": "mincho_modern"
+   },
+   "ipaexgothic/ja": {
+    "lang": "ja",
+    "group": "ipaexgothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.9,
+    "crop_acc": 0.992,
+    "fine_true": "gothic_old",
+    "fine_pred": "gothic_humanist",
+    "fine_crop_acc": 0.38,
+    "script_pred": "ja",
+    "auto_fine": "gothic_humanist",
+    "ratio_true": 0.719,
+    "ratio_pred": 0.733,
+    "trait_pred": "gothic_humanist"
+   },
+   "longcang/zh": {
+    "lang": "zh",
+    "group": "longcang",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "murecho/ja": {
+    "lang": "ja",
+    "group": "murecho",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.82,
+    "crop_acc": 0.933,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_geometric",
+    "fine_crop_acc": 0.918,
+    "script_pred": "ja",
+    "auto_fine": "gothic_geometric",
+    "ratio_true": 0.797,
+    "ratio_pred": 0.789,
+    "trait_pred": "gothic_geometric"
+   },
+   "notosanshk/zh": {
+    "lang": "zh",
+    "group": "sourcehansans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.74,
+    "crop_acc": 0.817,
+    "script_pred": "zh"
+   },
+   "notosansjp/ja": {
+    "lang": "ja",
+    "group": "sourcehansans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.85,
+    "crop_acc": 0.933,
+    "fine_true": "gothic_humanist",
+    "fine_pred": "gothic_humanist",
+    "fine_crop_acc": 0.569,
+    "script_pred": "ja",
+    "auto_fine": "gothic_humanist",
+    "ratio_true": 0.751,
+    "ratio_pred": 0.753,
+    "trait_pred": "gothic_humanist"
+   },
+   "notosanskr/ko": {
+    "lang": "ko",
+    "group": "sourcehansans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.92,
+    "crop_acc": 1.0,
+    "script_pred": "ko"
+   },
+   "notosanssc/zh": {
+    "lang": "zh",
+    "group": "sourcehansans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.74,
+    "crop_acc": 0.808,
+    "script_pred": "zh"
+   },
+   "notosanstc/zh": {
+    "lang": "zh",
+    "group": "sourcehansans",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.72,
+    "crop_acc": 0.792,
+    "script_pred": "zh"
+   },
+   "shipporimincho/ja": {
+    "lang": "ja",
+    "group": "shipporimincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 0.98,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.607,
+    "ratio_pred": 0.613,
+    "trait_pred": "mincho_old"
+   },
+   "shipporiminchob1/ja": {
+    "lang": "ja",
+    "group": "shipporimincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.9,
+    "crop_acc": 0.975,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 0.963,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.614,
+    "ratio_pred": 0.619,
+    "trait_pred": "mincho_old"
+   },
+   "sunflower/ko": {
+    "lang": "ko",
+    "group": "sunflower",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.81,
+    "crop_acc": 0.958,
+    "script_pred": "ko"
+   },
+   "wqyzenhei/zh": {
+    "lang": "zh",
+    "group": "wqyzenhei",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.9,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "yeonsung/ko": {
+    "lang": "ko",
+    "group": "yeonsung",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.91,
+    "crop_acc": 1.0,
+    "script_pred": "ko"
+   },
+   "zenkurenaido/ja": {
+    "lang": "ja",
+    "group": "zenkurenaido",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.69,
+    "crop_acc": 0.933,
+    "script_pred": "ja",
+    "ratio_true": 0.61,
+    "ratio_pred": 0.63
+   },
+   "zenmarugothic/ja": {
+    "lang": "ja",
+    "group": "zenmarugothic",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.84,
+    "crop_acc": 0.975,
+    "script_pred": "ja",
+    "ratio_true": 0.623,
+    "ratio_pred": 0.717
+   }
+  },
+  "fine": {
+   "ja/serif": {
+    "crop_acc": 0.961,
+    "font_correct": "3/3",
+    "trait_font_correct": "3/3"
+   },
+   "ja/sans": {
+    "crop_acc": 0.62,
+    "font_correct": "2/3",
+    "trait_font_correct": "2/3"
+   },
+   "ko/serif": {
+    "crop_acc": 0.979,
+    "font_correct": "2/2"
+   }
+  },
+  "coarse_font_acc": 0.9642857142857143,
+  "kana_ratio": {
+   "mae": 0.03,
+   "corr": 0.793
+  },
+  "coarse_confusion": [
+   [
+    712,
+    5,
+    3,
+    0
+   ],
+   [
+    110,
+    1214,
+    3,
+    113
+   ],
+   [
+    1,
+    4,
+    705,
+    10
+   ],
+   [
+    0,
+    44,
+    1,
+    435
+   ]
+  ],
+  "held_out": [
+   "aoyagisoseki",
+   "arphickai",
+   "arphicming",
+   "baekmukbatang",
+   "diphylleia",
+   "dokdo",
+   "gowundodum",
+   "hanazono",
+   "ipaexgothic",
+   "longcang",
+   "murecho",
+   "shipporimincho",
+   "sourcehansans",
+   "sunflower",
+   "wqyzenhei",
+   "yeonsung",
+   "zenkurenaido",
+   "zenmarugothic"
+  ]
+ },
+ "3": {
+  "n": 3960,
+  "coarse_crop_acc": 0.9166666666666666,
+  "script_acc": 0.9398989898989899,
+  "per_lang": {
+   "ja": {
+    "coarse_crop_acc": 0.934,
+    "n": 1920
+   },
+   "zh": {
+    "coarse_crop_acc": 0.879,
+    "n": 1080
+   },
+   "ko": {
+    "coarse_crop_acc": 0.924,
+    "n": 960
+   }
+  },
+  "fonts": {
+   "baekmukdotum/ko": {
+    "lang": "ko",
+    "group": "baekmuk",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.5,
+    "crop_acc": 0.517,
+    "script_pred": "ko"
+   },
+   "chironsunghk/zh": {
+    "lang": "zh",
+    "group": "sourcehanserif",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "eastseadokdo/ko": {
+    "lang": "ko",
+    "group": "eastseadokdo",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.82,
+    "crop_acc": 1.0,
+    "script_pred": "ko"
+   },
+   "gothica1/ko": {
+    "lang": "ko",
+    "group": "gothica1",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.91,
+    "crop_acc": 0.983,
+    "script_pred": "ko"
+   },
+   "iansui/zh": {
+    "lang": "zh",
+    "group": "klee",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.46,
+    "crop_acc": 0.683,
+    "script_pred": "zh"
+   },
+   "kaiseiharunoumi/ja": {
+    "lang": "ja",
+    "group": "kaisei",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.89,
+    "crop_acc": 0.992,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 0.84,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.577,
+    "ratio_pred": 0.643,
+    "trait_pred": "mincho_old"
+   },
+   "kaiseiopti/ja": {
+    "lang": "ja",
+    "group": "kaisei",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.79,
+    "crop_acc": 0.933,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.113,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.628,
+    "ratio_pred": 0.686,
+    "trait_pred": "mincho_modern"
+   },
+   "kaiseitokumin/ja": {
+    "lang": "ja",
+    "group": "kaisei",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.85,
+    "crop_acc": 0.983,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 0.942,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.659,
+    "ratio_pred": 0.645,
+    "trait_pred": "mincho_old"
+   },
+   "kiwimaru/ja": {
+    "lang": "ja",
+    "group": "kiwimaru",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.87,
+    "crop_acc": 1.0,
+    "script_pred": "ja",
+    "ratio_true": 0.688,
+    "ratio_pred": 0.699
+   },
+   "kleeone/ja": {
+    "lang": "ja",
+    "group": "klee",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.45,
+    "crop_acc": 0.675,
+    "script_pred": "ja",
+    "ratio_true": 0.617,
+    "ratio_pred": 0.625
+   },
+   "lxgwwenkaimonotc/zh": {
+    "lang": "zh",
+    "group": "klee",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.43,
+    "crop_acc": 0.575,
+    "script_pred": "zh"
+   },
+   "lxgwwenkaitc/zh": {
+    "lang": "zh",
+    "group": "klee",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.44,
+    "crop_acc": 0.65,
+    "script_pred": "zh"
+   },
+   "nanumsquare/ko": {
+    "lang": "ko",
+    "group": "nanumsquare",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.91,
+    "crop_acc": 0.992,
+    "script_pred": "ko"
+   },
+   "nanumsquareround/ko": {
+    "lang": "ko",
+    "group": "nanumsquare",
+    "true": "rounded",
+    "pred": "rounded",
+    "p": 0.83,
+    "crop_acc": 0.933,
+    "script_pred": "ko"
+   },
+   "notoserifhk/zh": {
+    "lang": "zh",
+    "group": "sourcehanserif",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "notoserifjp/ja": {
+    "lang": "ja",
+    "group": "sourcehanserif",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.92,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.772,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.674,
+    "ratio_pred": 0.684,
+    "trait_pred": "mincho_modern"
+   },
+   "notoserifkr/ko": {
+    "lang": "ko",
+    "group": "sourcehanserif",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "fine_true": "batang_modern",
+    "fine_pred": "batang_old",
+    "fine_crop_acc": 0.017,
+    "script_pred": "ko",
+    "auto_fine": "batang_old"
+   },
+   "notoserifsc/zh": {
+    "lang": "zh",
+    "group": "sourcehanserif",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "notoseriftc/zh": {
+    "lang": "zh",
+    "group": "sourcehanserif",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "orbit/ko": {
+    "lang": "ko",
+    "group": "orbit",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.8,
+    "crop_acc": 0.967,
+    "script_pred": "ko"
+   },
+   "sawarabigothic/ja": {
+    "lang": "ja",
+    "group": "sawarabigothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.88,
+    "crop_acc": 0.992,
+    "fine_true": "gothic_humanist",
+    "fine_pred": "gothic_humanist",
+    "fine_crop_acc": 0.637,
+    "script_pred": "ja",
+    "auto_fine": "gothic_humanist",
+    "ratio_true": 0.745,
+    "ratio_pred": 0.739,
+    "trait_pred": "gothic_humanist"
+   },
+   "umegothic/ja": {
+    "lang": "ja",
+    "group": "ume",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.77,
+    "crop_acc": 0.808,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_old",
+    "fine_crop_acc": 0.229,
+    "script_pred": "ja",
+    "auto_fine": "gothic_old",
+    "ratio_true": 0.908,
+    "ratio_pred": 0.74,
+    "trait_pred": "gothic_humanist"
+   },
+   "umemincho/ja": {
+    "lang": "ja",
+    "group": "ume",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.92,
+    "crop_acc": 0.992,
+    "fine_true": "mincho_modern",
+    "fine_pred": "mincho_modern",
+    "fine_crop_acc": 0.991,
+    "script_pred": "ja",
+    "auto_fine": "mincho_modern",
+    "ratio_true": 0.755,
+    "ratio_pred": 0.684,
+    "trait_pred": "mincho_modern"
+   },
+   "unbatang/ko": {
+    "lang": "ko",
+    "group": "unbatang",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "fine_true": "batang_old",
+    "fine_pred": "batang_old",
+    "fine_crop_acc": 1.0,
+    "script_pred": "ko",
+    "auto_fine": "batang_old"
+   },
+   "wqymicrohei/ja": {
+    "lang": "ja",
+    "group": "droidsansfallback",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.91,
+    "crop_acc": 0.975,
+    "fine_true": "gothic_geometric",
+    "fine_pred": "gothic_humanist",
+    "fine_crop_acc": 0.153,
+    "script_pred": "ja",
+    "auto_fine": "gothic_humanist",
+    "ratio_true": 0.796,
+    "ratio_pred": 0.746,
+    "trait_pred": "gothic_humanist"
+   },
+   "wqymicrohei/zh": {
+    "lang": "zh",
+    "group": "droidsansfallback",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.92,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   },
+   "yujiboku/ja": {
+    "lang": "ja",
+    "group": "yuji",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.64,
+    "crop_acc": 0.9,
+    "script_pred": "ja",
+    "ratio_true": 0.553,
+    "ratio_pred": 0.592
+   },
+   "yujimai/ja": {
+    "lang": "ja",
+    "group": "yuji",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.63,
+    "crop_acc": 0.883,
+    "script_pred": "ja",
+    "ratio_true": 0.671,
+    "ratio_pred": 0.589
+   },
+   "yujisyuku/ja": {
+    "lang": "ja",
+    "group": "yuji",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.65,
+    "crop_acc": 0.9,
+    "script_pred": "ja",
+    "ratio_true": 0.585,
+    "ratio_pred": 0.565
+   },
+   "zenkakugothicantique/ja": {
+    "lang": "ja",
+    "group": "zenkakugothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.82,
+    "crop_acc": 0.958,
+    "fine_true": "gothic_old",
+    "fine_pred": "gothic_old",
+    "fine_crop_acc": 0.59,
+    "script_pred": "ja",
+    "auto_fine": "gothic_old",
+    "ratio_true": 0.741,
+    "ratio_pred": 0.728,
+    "trait_pred": "gothic_old"
+   },
+   "zenkakugothicnew/ja": {
+    "lang": "ja",
+    "group": "zenkakugothic",
+    "true": "sans",
+    "pred": "sans",
+    "p": 0.81,
+    "crop_acc": 0.958,
+    "fine_true": "gothic_old",
+    "fine_pred": "gothic_old",
+    "fine_crop_acc": 0.711,
+    "script_pred": "ja",
+    "auto_fine": "gothic_old",
+    "ratio_true": 0.639,
+    "ratio_pred": 0.719,
+    "trait_pred": "gothic_old"
+   },
+   "zenoldmincho/ja": {
+    "lang": "ja",
+    "group": "zenoldmincho",
+    "true": "serif",
+    "pred": "serif",
+    "p": 0.91,
+    "crop_acc": 1.0,
+    "fine_true": "mincho_old",
+    "fine_pred": "mincho_old",
+    "fine_crop_acc": 0.824,
+    "script_pred": "ja",
+    "auto_fine": "mincho_old",
+    "ratio_true": 0.593,
+    "ratio_pred": 0.641,
+    "trait_pred": "mincho_old"
+   },
+   "zhimangxing/zh": {
+    "lang": "zh",
+    "group": "zhimangxing",
+    "true": "brush",
+    "pred": "brush",
+    "p": 0.93,
+    "crop_acc": 1.0,
+    "script_pred": "zh"
+   }
+  },
+  "fine": {
+   "ja/serif": {
+    "crop_acc": 0.746,
+    "font_correct": "5/6",
+    "trait_font_correct": "5/6"
+   },
+   "ja/sans": {
+    "crop_acc": 0.464,
+    "font_correct": "3/5",
+    "trait_font_correct": "3/5"
+   },
+   "ko/serif": {
+    "crop_acc": 0.508,
+    "font_correct": "1/2"
+   }
+  },
+  "coarse_font_acc": 1.0,
+  "kana_ratio": {
+   "mae": 0.0465,
+   "corr": 0.742
+  },
+  "coarse_confusion": [
+   [
+    1428,
+    8,
+    4,
+    0
+   ],
+   [
+    4,
+    1098,
+    23,
+    75
+   ],
+   [
+    82,
+    113,
+    872,
+    13
+   ],
+   [
+    0,
+    8,
+    0,
+    232
+   ]
+  ],
+  "held_out": [
+   "baekmuk",
+   "droidsansfallback",
+   "eastseadokdo",
+   "gothica1",
+   "kaisei",
+   "kiwimaru",
+   "klee",
+   "nanumsquare",
+   "orbit",
+   "sawarabigothic",
+   "sourcehanserif",
+   "ume",
+   "unbatang",
+   "yuji",
+   "zenkakugothic",
+   "zenoldmincho",
+   "zhimangxing"
+  ]
+ }
+}

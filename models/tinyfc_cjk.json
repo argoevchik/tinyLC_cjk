@@ -1,0 +1,83 @@
+{
+ "input": {
+  "name": "image",
+  "shape": [
+   null,
+   1,
+   64,
+   256
+  ],
+  "dtype": "float32",
+  "encoding": "grayscale, dark text on light paper, ink = 1 - pixel/255; text line scaled to 75% of the height and centered, long lines cut into overlapping 256-px windows (see predict_onnx.py)"
+ },
+ "coarse": [
+  "serif",
+  "sans",
+  "brush",
+  "rounded"
+ ],
+ "script": [
+  "ja",
+  "zh",
+  "ko"
+ ],
+ "fine": {
+  "fine_ja_serif": {
+   "lang": "ja",
+   "coarse": "serif",
+   "classes": [
+    "mincho_old",
+    "mincho_modern"
+   ]
+  },
+  "fine_ja_sans": {
+   "lang": "ja",
+   "coarse": "sans",
+   "classes": [
+    "gothic_old",
+    "gothic_humanist",
+    "gothic_geometric"
+   ]
+  },
+  "fine_ko_serif": {
+   "lang": "ko",
+   "coarse": "serif",
+   "classes": [
+    "batang_old",
+    "batang_modern"
+   ]
+  }
+ },
+ "fine_info": {
+  "mincho_old": "オールドスタイル明朝: small delicate counters, small kana, lingering brush strokes, organic curves.",
+  "mincho_modern": "モダン明朝: larger, dynamic counters; simpler, clean strokes; sometimes low contrast.",
+  "gothic_old": "オールドスタイルゴシック: old-style proportions in a sans (small kana and counters).",
+  "gothic_humanist": "モダンゴシック (humanist): modern strokes, traditional letterforms.",
+  "gothic_geometric": "モダンゴシック (systematic): prominently larger counters and kana, systematic strokes.",
+  "batang_old": "Old-style Korean serif: small counters, brush-like lingering strokes, geometric Hunminjeongeum letterform.",
+  "batang_modern": "Modern Korean serif: humanist or stiff text serif, larger letter size (Noto Serif KR, Nanum Myeongjo)."
+ },
+ "kana_ratio_cuts": {
+  "ja/serif": {
+   "cuts": [
+    0.652
+   ],
+   "classes": [
+    "mincho_old",
+    "mincho_modern"
+   ]
+  },
+  "ja/sans": {
+   "cuts": [
+    0.73,
+    0.762
+   ],
+   "classes": [
+    "gothic_old",
+    "gothic_humanist",
+    "gothic_geometric"
+   ]
+  }
+ },
+ "usage": "Average each output over the windows of a line. coarse = argmax(coarse). Use the fine output whose (lang, coarse) matches argmax(script) (or the known language) and the coarse class; if none matches there is no fine class."
+}

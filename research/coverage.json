@@ -1,0 +1,1679 @@
+{
+ "aoboshione": {
+  "file": "AoboshiOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "astasans": {
+  "file": "AstaSans[wght].ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "bagelfatone": {
+  "file": "BagelFatOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "bizudgothic": {
+  "file": "BIZUDGothic-Regular.ttf",
+  "files": 2,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.684,
+  "big5": 0.928,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "bizudmincho": {
+  "file": "BIZUDMincho-Regular.ttf",
+  "files": 2,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.684,
+  "big5": 0.928,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "bizudpgothic": {
+  "file": "BIZUDPGothic-Regular.ttf",
+  "files": 2,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.684,
+  "big5": 0.928,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "bizudpmincho": {
+  "file": "BIZUDPMincho-Regular.ttf",
+  "files": 2,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.684,
+  "big5": 0.928,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "blackandwhitepicture": {
+  "file": "BlackAndWhitePicture-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "blackhansans": {
+  "file": "BlackHanSans-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "bpmfhuninn": {
+  "file": "BpmfHuninn-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 0.683,
+  "big5": 0.991,
+  "jis1": 0.855,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "bpmfiansui": {
+  "file": "BpmfIansui-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 0.68,
+  "big5": 0.991,
+  "jis1": 0.855,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "bpmfzihikaistd": {
+  "file": "BpmfZihiKaiStd-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 0.684,
+  "big5": 1.0,
+  "jis1": 0.855,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "cactusclassicalserif": {
+  "file": "CactusClassicalSerif-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "cherrybombone": {
+  "file": "CherryBombOne-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "chirongoroundtc": {
+  "file": "ChironGoRoundTC[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 1.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "ko",
+   "sc",
+   "tc"
+  ]
+ },
+ "chironheihk": {
+  "file": "ChironHeiHK[wght].ttf",
+  "files": 2,
+  "kana": 1.0,
+  "hangul": 1.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "ko",
+   "sc",
+   "tc"
+  ]
+ },
+ "chironsunghk": {
+  "file": "ChironSungHK[wght].ttf",
+  "files": 2,
+  "kana": 1.0,
+  "hangul": 1.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "ko",
+   "sc",
+   "tc"
+  ]
+ },
+ "chocolateclassicalsans": {
+  "file": "ChocolateClassicalSans-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "chokokutai": {
+  "file": "Chokokutai-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "cutefont": {
+  "file": "CuteFont-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "darumadropone": {
+  "file": "DarumadropOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.016,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "delagothicone": {
+  "file": "DelaGothicOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.658,
+  "big5": 0.883,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "diphylleia": {
+  "file": "Diphylleia-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "dohyeon": {
+  "file": "DoHyeon-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "dokdo": {
+  "file": "Dokdo-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "dongle": {
+  "file": "Dongle-Regular.ttf",
+  "files": 3,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "dotgothic16": {
+  "file": "DotGothic16-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "eastseadokdo": {
+  "file": "EastSeaDokdo-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "gaegu": {
+  "file": "Gaegu-Regular.ttf",
+  "files": 3,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "gamjaflower": {
+  "file": "GamjaFlower-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.016,
+  "jis1": 0.0,
+  "langs": [
+   "ja",
+   "ko"
+  ]
+ },
+ "gasoekone": {
+  "file": "GasoekOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.001,
+  "big5": 0.0,
+  "jis1": 0.001,
+  "langs": [
+   "ko"
+  ]
+ },
+ "gothica1": {
+  "file": "GothicA1-Regular.ttf",
+  "files": 9,
+  "kana": 1.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja",
+   "ko"
+  ]
+ },
+ "gowunbatang": {
+  "file": "GowunBatang-Regular.ttf",
+  "files": 2,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "gowundodum": {
+  "file": "GowunDodum-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "grandifloraone": {
+  "file": "GrandifloraOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "gugi": {
+  "file": "Gugi-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "hachimarupop": {
+  "file": "HachiMaruPop-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "hahmlet": {
+  "file": "Hahmlet[wght].ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "himelody": {
+  "file": "HiMelody-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.016,
+  "jis1": 0.0,
+  "langs": [
+   "ja",
+   "ko"
+  ]
+ },
+ "hinamincho": {
+  "file": "HinaMincho-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.831,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "huninn": {
+  "file": "Huninn-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 0.721,
+  "big5": 0.991,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "iansui": {
+  "file": "Iansui-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.725,
+  "big5": 0.991,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "ibmplexsansjp": {
+  "file": "IBMPlexSansJP-Regular.ttf",
+  "files": 7,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.639,
+  "big5": 0.839,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "ibmplexsanskr": {
+  "file": "IBMPlexSansKR-Regular.ttf",
+  "files": 7,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "jua": {
+  "file": "Jua-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "kaiseidecol": {
+  "file": "KaiseiDecol-Regular.ttf",
+  "files": 3,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kaiseiharunoumi": {
+  "file": "KaiseiHarunoUmi-Regular.ttf",
+  "files": 3,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kaiseiopti": {
+  "file": "KaiseiOpti-Regular.ttf",
+  "files": 3,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kaiseitokumin": {
+  "file": "KaiseiTokumin-Regular.ttf",
+  "files": 4,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kapakana": {
+  "file": "Kapakana[wght].ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kiranghaerang": {
+  "file": "KirangHaerang-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "kiwimaru": {
+  "file": "KiwiMaru-Regular.ttf",
+  "files": 3,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.639,
+  "big5": 0.839,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kleeone": {
+  "file": "KleeOne-Regular.ttf",
+  "files": 2,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.666,
+  "big5": 0.888,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kosugi": {
+  "file": "Kosugi-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "kosugimaru": {
+  "file": "KosugiMaru-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "lineseedjp": {
+  "file": "LINESeedJP-Regular.ttf",
+  "files": 4,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "liujianmaocao": {
+  "file": "LiuJianMaoCao-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 0.606,
+  "jis1": 0.634,
+  "langs": [
+   "sc"
+  ]
+ },
+ "longcang": {
+  "file": "LongCang-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 0.606,
+  "jis1": 0.634,
+  "langs": [
+   "sc"
+  ]
+ },
+ "lxgwmarkergothic": {
+  "file": "LXGWMarkerGothic-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "lxgwwenkaimonotc": {
+  "file": "LXGWWenKaiMonoTC-Regular.ttf",
+  "files": 3,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "lxgwwenkaitc": {
+  "file": "LXGWWenKaiTC-Regular.ttf",
+  "files": 3,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "mashanzheng": {
+  "file": "MaShanZheng-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 0.606,
+  "jis1": 0.634,
+  "langs": [
+   "sc"
+  ]
+ },
+ "mochiypopone": {
+  "file": "MochiyPopOne-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.726,
+  "big5": 0.978,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "mochiypoppone": {
+  "file": "MochiyPopPOne-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.726,
+  "big5": 0.978,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "moiraione": {
+  "file": "MoiraiOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "monomaniacone": {
+  "file": "MonomaniacOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.016,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "mplus1": {
+  "file": "MPLUS1[wght].ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.596,
+  "big5": 0.722,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "mplus1code": {
+  "file": "MPLUS1Code[wght].ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.596,
+  "big5": 0.722,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "mplus1p": {
+  "file": "MPLUS1p-Regular.ttf",
+  "files": 7,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.585,
+  "big5": 0.7,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "mplus2": {
+  "file": "MPLUS2[wght].ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.596,
+  "big5": 0.722,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "mplusrounded1c": {
+  "file": "MPLUSRounded1c-Regular.ttf",
+  "files": 7,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.577,
+  "big5": 0.684,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "mplusu": {
+  "file": "MPLUSU[wght].ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.596,
+  "big5": 0.722,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "murecho": {
+  "file": "Murecho[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.378,
+  "big5": 0.361,
+  "jis1": 0.731,
+  "langs": [
+   "ja"
+  ]
+ },
+ "nanumbrushscript": {
+  "file": "NanumBrushScript-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "nanumgothic": {
+  "file": "NanumGothic-Regular.ttf",
+  "files": 3,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "nanumgothiccoding": {
+  "file": "NanumGothicCoding-Regular.ttf",
+  "files": 2,
+  "kana": 0.96,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.016,
+  "jis1": 0.0,
+  "langs": [
+   "ja",
+   "ko"
+  ]
+ },
+ "nanummyeongjo": {
+  "file": "NanumMyeongjo-Regular.ttf",
+  "files": 3,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "nanumpenscript": {
+  "file": "NanumPenScript-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "newtegomin": {
+  "file": "NewTegomin-Regular.ttf",
+  "files": 1,
+  "kana": 0.966,
+  "hangul": 0.0,
+  "gb1": 0.631,
+  "big5": 0.82,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "notosanshk": {
+  "file": "NotoSansHK[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.743,
+  "big5": 1.0,
+  "jis1": 0.908,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "notosansjp": {
+  "file": "NotoSansJP[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.726,
+  "big5": 0.978,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "notosanskr": {
+  "file": "NotoSansKR[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 1.0,
+  "gb1": 0.65,
+  "big5": 0.898,
+  "jis1": 0.903,
+  "langs": [
+   "ja",
+   "ko"
+  ]
+ },
+ "notosanssc": {
+  "file": "NotoSansSC[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "notosanstc": {
+  "file": "NotoSansTC[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.743,
+  "big5": 1.0,
+  "jis1": 0.908,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "notoserifhk": {
+  "file": "NotoSerifHK[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.743,
+  "big5": 1.0,
+  "jis1": 0.908,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "notoserifjp": {
+  "file": "NotoSerifJP[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.726,
+  "big5": 0.978,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "notoserifkr": {
+  "file": "NotoSerifKR[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 1.0,
+  "gb1": 0.65,
+  "big5": 0.898,
+  "jis1": 0.903,
+  "langs": [
+   "ja",
+   "ko"
+  ]
+ },
+ "notoserifsc": {
+  "file": "NotoSerifSC[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "notoseriftc": {
+  "file": "NotoSerifTC[wght].ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.743,
+  "big5": 1.0,
+  "jis1": 0.908,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "orbit": {
+  "file": "Orbit-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "palettemosaic": {
+  "file": "PaletteMosaic-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "poorstory": {
+  "file": "PoorStory-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "pottaone": {
+  "file": "PottaOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.631,
+  "big5": 0.82,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "rampartone": {
+  "file": "RampartOne-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "reggaeone": {
+  "file": "ReggaeOne-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "rock3d": {
+  "file": "Rock3D-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "rocknrollone": {
+  "file": "RocknRollOne-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "sawarabigothic": {
+  "file": "SawarabiGothic-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.556,
+  "big5": 0.621,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "sawarabimincho": {
+  "file": "SawarabiMincho-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.488,
+  "big5": 0.495,
+  "jis1": 0.995,
+  "langs": [
+   "ja"
+  ]
+ },
+ "shipporiantique": {
+  "file": "ShipporiAntique-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.731,
+  "big5": 0.984,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "shipporiantiqueb1": {
+  "file": "ShipporiAntiqueB1-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.731,
+  "big5": 0.984,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "shipporimincho": {
+  "file": "ShipporiMincho-Regular.ttf",
+  "files": 5,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.73,
+  "big5": 0.984,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "shipporiminchob1": {
+  "file": "ShipporiMinchoB1-Regular.ttf",
+  "files": 5,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.73,
+  "big5": 0.984,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "shizuru": {
+  "file": "Shizuru-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "singleday": {
+  "file": "SingleDay-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "slacksideone": {
+  "file": "SlacksideOne-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.016,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "songmyung": {
+  "file": "SongMyung-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "stick": {
+  "file": "Stick-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.636,
+  "big5": 0.835,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "stylish": {
+  "file": "Stylish-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "sunflower": {
+  "file": "Sunflower-Medium.ttf",
+  "files": 3,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "trainone": {
+  "file": "TrainOne-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.456,
+  "big5": 0.451,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "tsukimirounded": {
+  "file": "TsukimiRounded-Regular.ttf",
+  "files": 5,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.0,
+  "big5": 0.017,
+  "jis1": 0.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "uoqmunthenkhung": {
+  "file": "UoqMunThenKhung-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.707,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "tc"
+  ]
+ },
+ "wdxllubrifontjpn": {
+  "file": "WDXLLubrifontJPN-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "wdxllubrifontsc": {
+  "file": "WDXLLubrifontSC-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "wdxllubrifonttc": {
+  "file": "WDXLLubrifontTC-Regular.ttf",
+  "files": 1,
+  "kana": 0.96,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 1.0,
+  "jis1": 1.0,
+  "langs": [
+   "ja",
+   "sc",
+   "tc"
+  ]
+ },
+ "yeonsung": {
+  "file": "YeonSung-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 1.0,
+  "gb1": 0.0,
+  "big5": 0.0,
+  "jis1": 0.0,
+  "langs": [
+   "ko"
+  ]
+ },
+ "yomogi": {
+  "file": "Yomogi-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.831,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "yujiboku": {
+  "file": "YujiBoku-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.639,
+  "big5": 0.839,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "yujihentaiganaakari": {
+  "file": "YujiHentaiganaAkari-Regular.ttf",
+  "files": 1,
+  "kana": 0.489,
+  "hangul": 0.0,
+  "gb1": 0.001,
+  "big5": 0.016,
+  "jis1": 0.002,
+  "langs": [
+   "ja"
+  ]
+ },
+ "yujihentaiganaakebono": {
+  "file": "YujiHentaiganaAkebono-Regular.ttf",
+  "files": 1,
+  "kana": 0.489,
+  "hangul": 0.0,
+  "gb1": 0.001,
+  "big5": 0.016,
+  "jis1": 0.002,
+  "langs": [
+   "ja"
+  ]
+ },
+ "yujimai": {
+  "file": "YujiMai-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.639,
+  "big5": 0.839,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "yujisyuku": {
+  "file": "YujiSyuku-Regular.ttf",
+  "files": 1,
+  "kana": 1.0,
+  "hangul": 0.0,
+  "gb1": 0.639,
+  "big5": 0.839,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "yuseimagic": {
+  "file": "YuseiMagic-Regular.ttf",
+  "files": 1,
+  "kana": 0.966,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.831,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zcoolkuaile": {
+  "file": "ZCOOLKuaiLe-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 0.606,
+  "jis1": 0.634,
+  "langs": [
+   "sc"
+  ]
+ },
+ "zcoolqingkehuangyou": {
+  "file": "ZCOOLQingKeHuangYou-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 0.889,
+  "jis1": 0.868,
+  "langs": [
+   "sc"
+  ]
+ },
+ "zcoolxiaowei": {
+  "file": "ZCOOLXiaoWei-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 0.606,
+  "jis1": 0.634,
+  "langs": [
+   "sc"
+  ]
+ },
+ "zenantique": {
+  "file": "ZenAntique-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zenantiquesoft": {
+  "file": "ZenAntiqueSoft-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zenkakugothicantique": {
+  "file": "ZenKakuGothicAntique-Regular.ttf",
+  "files": 5,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zenkakugothicnew": {
+  "file": "ZenKakuGothicNew-Regular.ttf",
+  "files": 5,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zenkurenaido": {
+  "file": "ZenKurenaido-Regular.ttf",
+  "files": 1,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zenmarugothic": {
+  "file": "ZenMaruGothic-Regular.ttf",
+  "files": 5,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zenoldmincho": {
+  "file": "ZenOldMincho-Regular.ttf",
+  "files": 5,
+  "kana": 0.989,
+  "hangul": 0.0,
+  "gb1": 0.635,
+  "big5": 0.83,
+  "jis1": 1.0,
+  "langs": [
+   "ja"
+  ]
+ },
+ "zhimangxing": {
+  "file": "ZhiMangXing-Regular.ttf",
+  "files": 1,
+  "kana": 0.0,
+  "hangul": 0.0,
+  "gb1": 1.0,
+  "big5": 0.606,
+  "jis1": 0.634,
+  "langs": [
+   "sc"
+  ]
+ }
+}

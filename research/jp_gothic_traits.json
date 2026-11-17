@@ -1,0 +1,158 @@
+{
+ "zenkakugothicnew*": {
+  "kana_h": 0.721,
+  "kana_a": 0.639,
+  "counter": 0.588,
+  "ink": 0.339
+ },
+ "zenkakugothicantique": {
+  "kana_h": 0.78,
+  "kana_a": 0.741,
+  "counter": 0.588,
+  "ink": 0.339
+ },
+ "shipporiantique": {
+  "kana_h": 0.737,
+  "kana_a": 0.652,
+  "counter": 0.488,
+  "ink": 0.466
+ },
+ "notosansjp*": {
+  "kana_h": 0.787,
+  "kana_a": 0.751,
+  "counter": 0.561,
+  "ink": 0.392
+ },
+ "ibmplexsansjp": {
+  "kana_h": 0.785,
+  "kana_a": 0.755,
+  "counter": 0.628,
+  "ink": 0.349
+ },
+ "bizudpgothic": {
+  "kana_h": 0.821,
+  "kana_a": 0.754,
+  "counter": 0.573,
+  "ink": 0.39
+ },
+ "murecho": {
+  "kana_h": 0.798,
+  "kana_a": 0.797,
+  "counter": 0.564,
+  "ink": 0.402
+ },
+ "sawarabigothic": {
+  "kana_h": 0.791,
+  "kana_a": 0.745,
+  "counter": 0.561,
+  "ink": 0.432
+ },
+ "mplus1p*": {
+  "kana_h": 0.79,
+  "kana_a": 0.789,
+  "counter": 0.577,
+  "ink": 0.413
+ },
+ "mplus2": {
+  "kana_h": 0.801,
+  "kana_a": 0.837,
+  "counter": 0.576,
+  "ink": 0.414
+ },
+ "lineseedjp": {
+  "kana_h": 0.785,
+  "kana_a": 0.769,
+  "counter": 0.559,
+  "ink": 0.399
+ },
+ "kosugi": {
+  "kana_h": 0.808,
+  "kana_a": 0.796,
+  "counter": 0.502,
+  "ink": 0.437
+ },
+ "wdxllubrifontjpn": {
+  "kana_h": 0.863,
+  "kana_a": 0.882,
+  "counter": 0.461,
+  "ink": 0.62
+ },
+ "chocolateclassicalsans": {
+  "kana_h": 0.787,
+  "kana_a": 0.753,
+  "counter": 0.562,
+  "ink": 0.395
+ },
+ "lxgwmarkergothic": {
+  "kana_h": 0.726,
+  "kana_a": 0.737,
+  "counter": 0.572,
+  "ink": 0.419
+ },
+ "delagothicone": {
+  "kana_h": 0.75,
+  "kana_a": 0.963,
+  "counter": 0.108,
+  "ink": 0.807
+ },
+ "rocknrollone": {
+  "kana_h": 0.826,
+  "kana_a": 0.862,
+  "counter": 0.415,
+  "ink": 0.549
+ },
+ "notosanssc(jp kana)": {
+  "kana_h": 0.787,
+  "kana_a": 0.751,
+  "counter": 0.561,
+  "ink": 0.391
+ },
+ "ipaexgothic": {
+  "kana_h": 0.755,
+  "kana_a": 0.719,
+  "counter": 0.562,
+  "ink": 0.388
+ },
+ "ume-tgo5": {
+  "kana_h": 0.875,
+  "kana_a": 0.91,
+  "counter": 0.518,
+  "ink": 0.468
+ },
+ "ume-tgc4": {
+  "kana_h": 0.793,
+  "kana_a": 0.808,
+  "counter": 0.593,
+  "ink": 0.389
+ },
+ "ume-tgs4": {
+  "kana_h": 0.793,
+  "kana_a": 0.803,
+  "counter": 0.598,
+  "ink": 0.384
+ },
+ "vlgothic": {
+  "kana_h": 0.79,
+  "kana_a": 0.79,
+  "counter": 0.581,
+  "ink": 0.414
+ },
+ "konatu": {
+  "kana_h": 0.748,
+  "kana_a": 0.704,
+  "counter": 0.49,
+  "ink": 0.461
+ },
+ "wqy-zenhei": {
+  "kana_h": 0.801,
+  "kana_a": 0.732,
+  "counter": 0.618,
+  "ink": 0.326
+ },
+ "wqy-microhei": {
+  "kana_h": 0.804,
+  "kana_a": 0.796,
+  "counter": 0.542,
+  "ink": 0.428
+ }
+}

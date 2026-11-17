@@ -1,0 +1,28 @@
+[project]
+name = "tinyfc-cjk"
+version = "0.1.0"
+description = "Tiny CJK typeface classifier: shared coarse classes plus per-language fine classes"
+requires-python = ">=3.12"
+license = "MIT"
+license-files = ["LICENSE"]
+dependencies = [
+    "fonttools>=4.68.0",
+    "numpy>=2.5.5",
+    "pillow>=13.0.0",
+    "torch>=2.11.0",
+]
+
+[project.optional-dependencies]
+onnx = ["onnx>=1.23", "onnxruntime>=1.32", "onnxscript>=0.7"]
+
+[build-system]
+requires = ["uv_build>=0.13.8,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true

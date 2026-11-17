@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info
+.venv
+.pydeps/
+.pydeps-tmp/
+
+# machine-local settings for run.sh (e.g. TINYFC_PYTHON=...)
+.env.local
+
+# training logs
+logs/
+ext/
+
+# fonts: downloaded by scripts/fetch_fonts.py (1.6 GB; each folder carries its own licence)
+fonts/*
+!fonts/SOURCES.md
+
+# regenerable caches (data/kana_ratio_design.json is a training input and stays)
+data/charsets.json
+data/kana_ratio.json
+
+# scraped third-party material
+research/raw/
+research/gf_meta.json
+
+# cross-validation fold models (not needed to run anything)
+models/cv_fold*.pt
+
+# local-only comparison with a sibling project
+research/compare_jp.py
+results/compare_jp*.json
